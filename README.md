@@ -8,7 +8,7 @@ The main motive of this project is to understand the fine details of implementin
 
 a)Initializing K-Centroids for Spark using the data given in both K-Means and K-Means++ Algorithms.
 
-b)Computing both the Eucledian and Manhattan Distances for the intial obtained k-centroids in both the algorithms.
+b)Computing both the Eucledian and Manhattan Distances for the initial obtained k-centroids in both the algorithms.
 
 c)Measuring the clustering algorithm performance using Cost functions for Eucledian and Manhattan Distances.
 
