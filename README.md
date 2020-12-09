@@ -28,9 +28,9 @@ Description about the files:
 
 4)data.txt: This file contains the associated input data to be processed for obtaining the centroids.
 
-5)K-means++.txt: This data file contains the initial centroids obtained in K-Means++.py file.
+5)K-Centroids for (K-means++).txt: This data file contains the initial centroids obtained in K-Means++.py file.
 
-6)K-Means.txt: This data file containd the initial centroids obtained in K-Means.py file.
+6)K-Centroids for (K-Means).txt: This data file containd the initial centroids obtained in K-Means.py file.
 
 Output Files: The explanation about the output generated is available in "K-Means.py" and "K-Means++.py" python file which explains clearly each step on how is the end result obtained. 
 
