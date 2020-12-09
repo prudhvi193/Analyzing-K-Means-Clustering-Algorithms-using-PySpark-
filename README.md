@@ -26,7 +26,7 @@ Description about the files:
 
 3)K-Means++.py: PySpark K-Means++ clustering program developed with multiple centroid initializations and distance measures and its associated internal steps.
 
-4)data.txt: This input file contains the input data to be processed for obtaining the centroids.
+4)data.txt: This file contains the associated input data to be processed for obtaining the centroids.
 
 5)K-means++.txt: This data file contains the initial centroids obtained in K-Means++.py file.
 
