@@ -32,7 +32,7 @@ Description about the files:
 
 6)K-Centroids for (K-Means).txt: This data file containd the initial centroids obtained in K-Means.py file.
 
-Output Files: The explanation about the output generated is available in "K-Means.py" and "K-Means++.py" python file which explains clearly each step on how is the end result obtained. 
+Output Files: The explanation about the output generated is available in "K-Means.ipynb" and "K-Means++.ipynb" python file which explains clearly each step on how is the end result obtained. 
 
 
 
