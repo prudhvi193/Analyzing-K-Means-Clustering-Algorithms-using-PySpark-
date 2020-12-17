@@ -22,9 +22,9 @@ Description about the files:
 
 1)Project-3.pdf: This file contains the steps associated for developing the application and also the intermediate output formats for executing the program.
 
-2)K-Means.py: PySpark K-Means clustering program developed with multiple centroid initializations and distance measures and its associated internal steps.
+2)K-Means.py/K-means.ipynb: PySpark K-Means clustering program developed with multiple centroid initializations and distance measures and its associated internal steps.
 
-3)K-Means++.py: PySpark K-Means++ clustering program developed with multiple centroid initializations and distance measures and its associated internal steps.
+3)K-Means++.py/K-Means++.ipynb: PySpark K-Means++ clustering program developed with multiple centroid initializations and distance measures and its associated internal steps.
 
 4)data.txt: This file contains the associated input data to be processed for obtaining the centroids.
 
